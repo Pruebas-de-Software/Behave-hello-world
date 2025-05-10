@@ -45,4 +45,6 @@ belly-bdd/
 └── README.md
 ```
 
+(The same file .feature than Hello World Cucumber)
+
 Happy testing! 💚
